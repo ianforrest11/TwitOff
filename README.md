@@ -5,4 +5,4 @@ URL: https://ianforrest11-twitoff.herokuapp.com/
 
 # Summary
 TwitOff is a predictor function that analyzes the text of Twitter users.
-![Alt text](/Users/ianforrest/Desktop/coding/repos/ianforrest11/TwitOff/images/menu.png?raw=true "Title")
+![Alt text](images/menu.png?raw=true "Title")
